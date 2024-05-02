@@ -31,7 +31,9 @@ void exibirTemperatura() {
     // Exibe a temperatura no LCD
     lcd.clear(); // Limpa o LCD para remover leituras anteriores
     lcd.setCursor(0, 0); // Move o cursor para o início da primeira linha
-    lcd.print("Temperatura: "); // Exibe "Temperatura:"
+    lcd.print("Temperatura:"); // Exibe "Temperatura:"
+    
+    lcd.setCursor(0, 1);
     lcd.print(temperatura); // Exibe a temperatura recebida
     lcd.write(byte(0)); // Escreve o caractere personalizado para o símbolo de grau Celsius
   	lcd.print("C"); // Exibe o símbolo de grau Celsius
@@ -53,4 +55,3 @@ void loop()
 {
   exibirTemperatura(); // Chama a função para exibir a temperatura
 }
-
