@@ -1,9 +1,9 @@
 #include <Wire.h> 
 #include <Servo.h>
 
-Servo servoMotor;
+Servo servoMotor; 
 
-#define Servo 7
+#define Servo 7 
 #define TMP A1
 
 int temp = 0;
@@ -42,5 +42,4 @@ void loop()
   Wire.write(temp >> 8);
   Wire.write(temp & 0xFF);
   Wire.endTransmission();
-
 }
