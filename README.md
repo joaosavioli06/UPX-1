@@ -1,7 +1,4 @@
 # Usina de Projetos Experimentais 1 - Grupo TechUrban
-
-## Título
-
 Neste repositório você encontrará o projeto do 1º semestre da disciplina de UPX - 1 (Usina de Projetos Experimentais 1) do grupo TechUrban da turma A de Análise e Desenvolvimento de Sistemas EAD do Centro Universitário Facens.
 
 ## Integrantes
@@ -17,8 +14,13 @@ Pensamos em utilizar o máximo de equipamentos possíveis, para poder mitigar os
 
 ## Tecnologias Utilizadas
 
-* C++
-* Tinkercad
+* Linguagem de Programação: C++
+* Ambiente de Simulação: Tinkercad
+
+## Bibliotecas Utilizadas no Desenvolvimento
+* Wire.h
+* Servo.h
+* LiquidCrystal.h
 
 ## Funcionamento dos Equipamentos 
 
