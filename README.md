@@ -2,15 +2,16 @@
 Neste repositório você encontrará o projeto do 1º semestre da disciplina de UPX - 1 (Usina de Projetos Experimentais 1) do grupo TechUrban da turma A de Análise e Desenvolvimento de Sistemas EAD do Centro Universitário Facens.
 
 ## Integrantes
-* Guilherme Gravalos Morais
-* João Gabriel Savioli
-* Luiz Fernando Brisola
+* Guilherme Gravalos Morais - RA: 249588
+* João Gabriel Savioli - RA: 247617
+* Luiz Fernando Brisola - RA: 249429
 
 ## Sobre o Projeto
 
-O projeto se baseia em um sistema de ação contra incêndios, no qual contém elementos || equipamentos eletrônicos que interligados a uma placa Arduino, conseguem agir efetivamente contra um possível incêndio. Para esse projeto, pensamos em equipamentos, que junto com nossas ideias, somassem utilizações úteis em uma situação de incêndio. A função de cada equipamento foi muito discutida e bem pensada, visando simular o impacto real de cada um, em circustâncias reais. 
+O projeto foca na criação de um sistema de combate a incêndios, utilizando tecnologia Arduino em conjunto com componentes eletrônicos, como sensores de temperatura, displays LCD, servomotores e alarmes sonoros. A nossa abordagem visa não apenas detectar incêndios, mas também agir proativamente para conter e minimizar danos.
 
-Pensamos em utilizar o máximo de equipamentos possíveis, para poder mitigar os possíveis danos com mais eficiência e assim explorando a variedade de recursos na qual a plataforma Tinkercad oferece para nós. Caso tivessemos o Arduino físico, gostariamos de utilizar e explorar outros equipamentos para aperfeiçoar ainda mais o projeto, mas isso é a
+Nossa equipe dedicou esforços para selecionar cuidadosamente os equipamentos e definir suas funções, com base em simulações realistas de cenários de incêndio. Optamos por explorar ao máximo as capacidades oferecidas pela plataforma Tinkercad, aproveitando sua variedade de recursos para garantir a eficácia e a versatilidade do sistema.
+
 
 ## Tecnologias Utilizadas
 
