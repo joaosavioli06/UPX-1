@@ -1,3 +1,7 @@
+![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
+
+[Bem-vindo](#Curso-Git-e-GitHub-Avançado) |
+
 # Usina de Projetos Experimentais 1 - Grupo TechUrban
 Neste repositório você encontrará o projeto do 1º semestre da disciplina de UPX - 1 (Usina de Projetos Experimentais 1) do grupo TechUrban da turma A de Análise e Desenvolvimento de Sistemas EAD do Centro Universitário Facens.
 
@@ -30,5 +34,5 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 
 ## Funcionamento dos Equipamentos 
 
-
+1 ![](/gif/gif_placaum.gif) 
 
