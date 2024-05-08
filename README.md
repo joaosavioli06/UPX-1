@@ -38,13 +38,23 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 
 <b>Funcionamento dos Equipamentos na 1ª Placa </b>
 
+<br>
+
 ![](/gif/gif_placaum.gif) 
+
+<br>
 
 <b>Funcionamento dos Equipamentos nas 2 placas</b>
 
+<br>
+
 ![](/gif/gif_placadois.gif) 
 
+<br>
+
 <b>Funcionamento dos Equipamentos em Todas as Placas</b>
+
+<br>
 
 ![](/gif/gif_3placas_juntas.gif) 
 
