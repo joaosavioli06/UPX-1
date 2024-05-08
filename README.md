@@ -44,4 +44,4 @@ Funcionamento dos Equipamentos nas 2 placas
 
 Funcionamento dos Equipamentos em Todas as Placas
 
-![](/gif/gic_3placas_juntas.gif) 
+![](/gif/gif_3placas_juntas.gif) 
