@@ -1,6 +1,6 @@
 ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
 
-[Bem-vindo](#usina-de-projetos-experimentais-1---grupo-techurban) | [Integrantes](#integrantes)| [Sobre](#sobre-o-projeto) | [Tecnologias](#tecnologias-utilizadas) | [Bibliotecas](#bibliotecas-utilizadas-no-desenvolvimento) | [Funcionamento](#funcionamento-dos-equipamentos)
+[Bem-vindo](#usina-de-projetos-experimentais-1---grupo-techurban) | [Integrantes](#integrantes) | [Sobre](#sobre-o-projeto) | [Tecnologias](#tecnologias-utilizadas) | [Bibliotecas](#bibliotecas-utilizadas-no-desenvolvimento) | [Funcionamento](#funcionamento-dos-equipamentos) |
 
 # Usina de Projetos Experimentais 1 - Grupo TechUrban
 Neste repositório você encontrará o projeto do 1º semestre da disciplina de UPX - 1 (Usina de Projetos Experimentais 1) do grupo TechUrban da turma A de Análise e Desenvolvimento de Sistemas EAD do Centro Universitário Facens.
@@ -34,14 +34,18 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 
 ## Funcionamento dos Equipamentos 
 
-<div style="text-align:center; font-weight: bold;"> Funcionamento dos Equipamentos na 1ª Placa </div> <br>
+<div align="center"; font-weight="bold";>
+
+Funcionamento dos Equipamentos na 1ª Placa 
 
 ![](/gif/gif_placaum.gif) 
 
-<div style="text-align:center; font-weight: bold;"> Funcionamento dos Equipamentos nas 2 placas </div> <br>
+Funcionamento dos Equipamentos nas 2 placas 
 
 ![](/gif/gif_placadois.gif) 
 
-<div style="text-align:center; font-weight: bold;"> Funcionamento dos Equipamentos em Todas as Placas </div> <br>
+Funcionamento dos Equipamentos em Todas as Placas  
+
+</div>
 
 ![](/gif/gif_3placas_juntas.gif) 
