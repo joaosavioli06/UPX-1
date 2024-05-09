@@ -33,10 +33,11 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 * LiquidCrystal.h
 
 ## Funcionamento dos Equipamentos 
+<br>
 
 <div align="center";>
 
-<b>Funcionamento dos Equipamentos na 1ª Placa </b>
+#### Funcionamento dos Equipamentos na 1ª Placa 
 
 <br>
 
@@ -44,7 +45,7 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 
 <br>
 
-<b>Funcionamento dos Equipamentos nas 2 placas</b>
+#### Funcionamento dos Equipamentos nas 2 placas
 
 <br>
 
@@ -52,7 +53,7 @@ Já na 3ª placa Arduino, sua função é específica: contém um resistor proje
 
 <br>
 
-<b>Funcionamento dos Equipamentos em Todas as Placas</b>
+#### Funcionamento dos Equipamentos em Todas as Placas
 
 <br>
 
