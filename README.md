@@ -1,4 +1,4 @@
-![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
+
 
 [Bem-vindo](#usina-de-projetos-experimentais-1---grupo-techurban) | [Integrantes](#integrantes) | [Sobre](#sobre-o-projeto) | [Tecnologias](#tecnologias-utilizadas) | [Bibliotecas](#bibliotecas-utilizadas-no-desenvolvimento) | [Funcionamento](#funcionamento-dos-equipamentos) |
 
